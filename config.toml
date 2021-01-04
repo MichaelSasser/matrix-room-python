@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://michaelsasser.github.io/matrix-room-python/"
 languageCode = "en-us"
 title = "Matrix Code of Conduct"
 theme = "onedly"
