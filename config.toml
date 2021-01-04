@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Matrix Code of Conduct"
 theme = "onedly"
 
+copyright = "Michael Sasser"
+
 #
 # Personalization params
 #
