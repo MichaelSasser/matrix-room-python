@@ -1,0 +1,72 @@
+# matrix-room-python
+# Copyright (c) 2021  Michael Sasser <Michael@MichaelSasser.org>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+---
+
+
+baseurl: 'https://michaelsasser.github.io/matrix-room-python/'
+languageCode: en-us
+title: Matrix Code of Conduct
+theme: onedly
+copyright: Michael Sasser
+params:
+  description: 'for the @Python3:matrix.org room'
+  author_name: Michael Sasser
+  project_url: 'https://michaelsasser.github.io/matrix-room-python/index.html'
+  socialShare: false
+  socialShareTwitter: false
+  socialShareGoogleplus: false
+  socialShareFacebook: false
+  socialShareReddit: false
+  socialShareLinkedin: false
+  socialShareStumbleupon: false
+  socialSharePinterest: false
+  socialShareEmail: false
+  first_color: '#f8f8f8'
+  first_border_color: '#e7e7e7'
+  first_text_color: '#333'
+  second_color: white
+  second_text_color: '#333'
+  header_color: '#f8f8f8'
+  header_text_color: 'rgb(51, 51, 51)'
+  header_link_color: '#777'
+  header_link_hover_color: 'rgb(51, 51, 51)'
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+    anonymizeIP: true
+    respectDoNotTrack: true
+    useSessionStorage: true
+  instagram:
+    disable: true
+    simple: true
+  twitter:
+    disable: true
+    enableDNT: true
+    simple: true
+  vimeo:
+    disable: true
+    simple: true
+  youtube:
+    disable: true
+    privacyEnhanced: true
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
