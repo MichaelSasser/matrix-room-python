@@ -41,6 +41,7 @@ of their processing and refers to the data subjects.
 
 ### Purposes of processing
 
+* Content Delivery Network (CDN).
 * Contact requests and communication.
 * Provision of contractual services and customer service.
 
@@ -129,6 +130,12 @@ The server log files can be used on the one hand for security purposes, e.g.
 to avoid overloading the server (especially in the case of abusive attacks, so-
 called DDoS attacks) and on the other hand to ensure the load on the servers 
 and their stability.
+
+**Content-Delivery-Network**: We use a "Content-Delivery-Network" (CDN). A CDN
+is a service with the help of which the content of an online offer, in 
+particular large media files such as graphics or program scripts, can be 
+delivered faster and more securely with the help of regionally distributed 
+servers connected via the Internet.
 
 * Processed data types: content data (e.g. entries in online forms), usage data 
   (e.g. websites visited, interest in content, access times), meta / 
