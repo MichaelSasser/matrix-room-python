@@ -12,7 +12,7 @@ We are committed to providing a welcoming and inspiring community for all,
 and expect our code of conduct to be honoured. Anyone who violates this code 
 of conduct may be banned from the community.
 
-This applies to conversation in any room in the matrix space 
+This applies to communication in any room of the Python community Matrix Space
 `#python-community:matrix.org`.
 
 Our open source community strives to:
