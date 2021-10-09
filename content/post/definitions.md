@@ -64,11 +64,3 @@ We do not want:
 - Money transactions
 - Conversations in other languages than English. We have agreed on English as
   common language
-- Scrambled or illegible URLs. This also includes URLs from URL shorteners,
-  or URLs changed from something like "https://domain.tld" to 
-  "hxxps://domain.tld".
-  We **prefer** Markdown inline-style links 
-  `[example link](https://domain.tld/)`.
-  This rule has one exception, which is the shortened URL to this website
-  `https://bit.ly/3ngytsS` in the room topic in any room of the Python 
-  community Matrix Space
