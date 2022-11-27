@@ -10,13 +10,13 @@ If you experience or witness unacceptable behaviour — or have any other
 concerns — please report it by contacting us via email
 [abuse@michaelsasser.org](mailto://abuse@michaelsasser.org) or in Matrix:
 
-| Name             | Matrix Username                                                                          |
-| ---------------- | ---------------------------------------------------------------------------------------- |
-| BrenBarn         | [@brenbarn:matrix.org](https://app.element.io/#/user/@brenbarn:matrix.org)               |
-| defnull          | [@defnull:matrix.cccgoe.de](https://app.element.io/#/user/@defnull:matrix.cccgoe.de)     |
-| ilex             | [@ilex:oakforest.in](https://app.element.io/#/user/@ilex:oakforest.in)                   |
-| James Belchamber | [@jamesbelchamber:matrix.org](https://app.element.io/#/user/@jamesbelchamber:matrix.org) |
-| Michael Sasser   | [@michael:michaelsasser.org](https://app.element.io/#/user/@michael:michaelsasser.org)   |
+| Name             | Matrix Username                                                                                |
+| ---------------- | ---------------------------------------------------------------------------------------------- |
+| BrenBarn         | [@brenbarn:matrix.org](https://app.element.io/#/user/@brenbarn:matrix.org)                     |
+| defnull          | [@defnull:matrix.cccgoe.de](https://app.element.io/#/user/@defnull:matrix.cccgoe.de)           |
+| ilex             | [@ilex:oakforest.in](https://app.element.io/#/user/@ilex:oakforest.in)                         |
+| James Belchamber | [@jamesbelchamber:isaffine.name](https://app.element.io/#/user/@jamesbelchamber:isaffine.name) |
+| Michael Sasser   | [@michael:michaelsasser.org](https://app.element.io/#/user/@michael:michaelsasser.org)         |
 
 All reports will be handled with discretion. In your report please include:
 
