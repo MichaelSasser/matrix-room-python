@@ -1,7 +1,8 @@
-# Matrix Code of Conduct Page
+# Python Community on Matrix - Legacy Website
 
-The source of the page: https://michaelsasser.github.io/matrix-room-python/index.html.
+The project has moved to GitLab:
+https://gitlab.com/matrixpython/website-legacy
 
 ## License
-Copyright &copy; 2021 Michael Sasser <Info@MichaelSasser.org>. Released under
+Copyright &copy; 2021-2023 Michael Sasser <michael@matrixpython.org>. Released under
 the GPLv3 license.
